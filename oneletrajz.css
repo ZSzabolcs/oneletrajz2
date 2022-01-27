@@ -1,0 +1,24 @@
+body
+{
+    font-family: 'Comforter', cursive;
+    background-color: bisque;
+    color: black;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.kep
+{
+    width: 250px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+#kep
+
+{
+    width: 200px;
+}
